@@ -1,4 +1,4 @@
-module github.com/kemoshumai/lorca
+module github.com/zserge/lorca
 
 replace github.com/zserge/lorca => ./
 
